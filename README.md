@@ -2,7 +2,7 @@
 
 <div align="center">
 
-![AutoChartist Logo](logo.png)
+<img width="64" height="64" alt="logo" src="https://github.com/user-attachments/assets/42882da3-71b1-452f-afee-2668b440b217" />
 
 **自然语言 + 数据文件 → Matplotlib 代码 + 高质量图表**
 
@@ -16,7 +16,8 @@ AutoChartist 是一个跨平台工具，帮助数据分析新手、科研人员�
 
 <div align="center">
 
-![AutoChartist 界面](screenshot.png)
+<img width="2550" height="1245" alt="image" src="https://github.com/user-attachments/assets/25fe4d6e-6af8-47a1-97fa-6b893d227d0a" />
+
 
 *AutoChartist 主界面 - 数据概览、AI 推荐、图表生成一体化*
 
@@ -177,25 +178,18 @@ AutoChartist/
 
 ## 📋 使用示例
 
-### 示例 1：时间序列图
+### 示例 1：使用AI生成的提示词
 ```
-画一个每月销售额的折线图，加上 95% 置信区间
+画一个按date列展示math_score列的折线图，添加网格线和标题'数学成绩随时间变化'
 ```
+<img width="2478" height="1245" alt="image" src="https://github.com/user-attachments/assets/be2a9c9e-5452-461e-bef3-c1d86423a2f1" />
 
-### 示例 2：分布图
+### 示例 2：提示词利用
 ```
-展示年龄的直方图，分成 20 个区间，使用蓝色填充
+请帮我绘制一张此数据集最有意义的图
 ```
+<img width="2498" height="1245" alt="image" src="https://github.com/user-attachments/assets/7175ea54-5d18-44fd-8627-066e6d5f2ad8" />
 
-### 示例 3：对比图
-```
-画一个按类别分组的销售额条形图，横向显示，添加数值标签
-```
-
-### 示例 4：散点图
-```
-绘制身高和体重的散点图，用颜色区分性别，添加趋势线
-```
 
 ## ⚠️ 注意事项
 
@@ -203,6 +197,7 @@ AutoChartist/
 2. **模型选择**：不同模型的效果可能不同，建议尝试多个模型
 3. **数据格式**：支持 CSV 和 Excel（.xlsx, .xls）格式
 4. **代码安全**：生成的代码在沙箱环境中执行，确保安全性
+5. **运行失败**：当运行产生错误时，可以进行多次尝试点击生成图标
 
 ## 🤝 贡献
 
