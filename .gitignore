@@ -51,6 +51,7 @@ config.json
 *.py
 !run.py
 !src/**/*.py
+GITHUB_UPLOAD_GUIDE.md
 
 # Output directory for generated charts
 outputs/
