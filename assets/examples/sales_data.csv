@@ -1,0 +1,33 @@
+date,sales,region,product
+2024-01-01,12500,North,Product A
+2024-01-02,13200,North,Product A
+2024-01-03,11800,North,Product B
+2024-01-04,14500,South,Product A
+2024-01-05,15200,South,Product B
+2024-01-06,13800,East,Product A
+2024-01-07,14200,East,Product B
+2024-01-08,12800,West,Product A
+2024-01-09,13500,West,Product B
+2024-01-10,14800,North,Product A
+2024-01-11,13900,North,Product B
+2024-01-12,15600,South,Product A
+2024-01-13,14300,South,Product B
+2024-01-14,13100,East,Product A
+2024-01-15,14700,East,Product B
+2024-01-16,13400,West,Product A
+2024-01-17,15100,West,Product B
+2024-01-18,12600,North,Product A
+2024-01-19,14000,North,Product B
+2024-01-20,15300,South,Product A
+2024-01-21,13700,South,Product B
+2024-01-22,14400,East,Product A
+2024-01-23,12900,East,Product B
+2024-01-24,15000,West,Product A
+2024-01-25,13600,West,Product B
+2024-01-26,14200,North,Product A
+2024-01-27,15500,North,Product B
+2024-01-28,13300,South,Product A
+2024-01-29,14900,South,Product B
+2024-01-30,13800,East,Product A
+2024-01-31,14600,East,Product B
+
