@@ -2,7 +2,7 @@
 
 <div align="center">
 
-![AutoChartist Logo](logo.png)
+<img width="64" height="64" alt="logo" src="https://github.com/user-attachments/assets/42882da3-71b1-452f-afee-2668b440b217" />
 
 **自然语言 + 数据文件 → Matplotlib 代码 + 高质量图表**
 
